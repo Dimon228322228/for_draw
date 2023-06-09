@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T15:48:08.246Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.7" etag="zLV5ypTcdGEvYHYOmvJz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T15:55:55.922Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="k0CUkt6tT7lX2AqEmFyq" version="21.3.7" type="github">
   <diagram name="Page-1" id="p050v5aGQvljBA40dcEX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgyiILVtQjdwvqKFbTJx-1" target="sgyiILVtQjdwvqKFbTJx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgyiILVtQjdwvqKFbTJx-2" target="sgyiILVtQjdwvqKFbTJx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-2" value="Ввод входных данных и выбор степени для полинома аппроксимирующей функции(m = 1 - линейная, m = 2 - квадратичная)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sgyiILVtQjdwvqKFbTJx-4" target="sgyiILVtQjdwvqKFbTJx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-4" value="i = 0 to 4" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sgyiILVtQjdwvqKFbTJx-6" value="ai = " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
